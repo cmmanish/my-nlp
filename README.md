@@ -8,3 +8,5 @@ To run a single test, run:
 
     ./gradlew -Dtest=TestSentenceChunksCreater clean test --info
 # my-nlp
+
+going to use https://www.meaningcloud.com/developer/
