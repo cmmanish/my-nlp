@@ -1,4 +1,6 @@
 import com.aliasi.util.Files;
+import org.junit.After;
+import org.junit.Before;
 import org.junit.Test;
 
 import java.io.File;
@@ -8,10 +10,22 @@ import java.util.Map;
 
 public class TestBreakIntoSentences {
 
+    Instant start;
+
+    @Before
+    public void beforeMethod() {
+        start = Instant.now();
+    }
+
+    @After
+    public void AfterMethod() {
+        Instant end = Instant.now();
+        System.out.println(Duration.between(start, end));
+    }
+
     @Test
     public void testInputAsString() throws Exception {
 
-        Instant start = Instant.now();
         String text = "The induction of immediate-early (IE) response genes, such as egr-1,\n" +
                 "  c-fos, and c-jun, occurs rapidly after the activation of T\n" +
                 "  lymphocytes. " +
@@ -31,23 +45,17 @@ public class TestBreakIntoSentences {
         breakIntoSentences.getSentenceCount();
         breakIntoSentences.getEachSentenceAsMap();
 
-        Instant end = Instant.now();
-        System.out.println(Duration.between(start, end)); // prints PT1M3.553S
     }
 
     @Test
     public void testInputFromFile() throws Exception {
 
-        Instant start = Instant.now();
-
         File file = new File("input/content.txt");
-        String text = Files.readFromFile(file,"ISO-8859-1");
+        String text = Files.readFromFile(file, "ISO-8859-1");
         BreakIntoSentences breakIntoSentences = new BreakIntoSentences();
         breakIntoSentences.tokenizeSentence(text);
         breakIntoSentences.getSentenceCount();
         Map<Integer, String> sentenceMap = breakIntoSentences.getEachSentenceAsMap();
 
-        Instant end = Instant.now();
-        System.out.println(Duration.between(start, end)); // prints PT1M3.553S
     }
 }

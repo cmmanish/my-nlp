@@ -1,3 +1,5 @@
+import org.junit.After;
+import org.junit.Before;
 import org.junit.Test;
 
 import java.time.Duration;
@@ -6,34 +8,33 @@ import java.util.List;
 
 public class TestSentenceChunksCreater {
 
+    Instant start;
+
+    @Before
+    public void beforeMethod() {
+        start = Instant.now();
+    }
+
+    @After
+    public void AfterMethod() {
+        Instant end = Instant.now();
+        System.out.println(Duration.between(start, end));
+    }
+
     @Test
     public void testInputFromFile() {
 
-        Instant start = Instant.now();
         SentenceChunksCreater sentenceChunksCreater = new SentenceChunksCreater();
         List<String> sentenceList = sentenceChunksCreater.getChunksAsHashMap();
-        Instant end = Instant.now();
-        System.out.println(Duration.between(start, end));
 
     }
 
     @Test
-    public void testNormalizeInputFromFile() {
+    public void testSingleSentenceFromFile() {
 
-        Instant start = Instant.now();
         SentenceChunksCreater sentenceChunksCreater = new SentenceChunksCreater();
         List<String> sentenceList = sentenceChunksCreater.getChunksAsHashMap();
-
-        String appendStr = "";
-        for (String sent: sentenceList) {
-            appendStr+=sent.trim() + " ";
-        }
-        appendStr = appendStr.trim();
-        //replace " ' ” '  " all the quotes with space
-
-        sentenceChunksCreater.fileContentWrite(appendStr);
-        Instant end = Instant.now();
-        System.out.println(Duration.between(start, end));
+        String sentence = sentenceList.get(0);
 
     }
 
@@ -43,5 +44,21 @@ public class TestSentenceChunksCreater {
         SentenceChunksCreater sentenceChunksCreater = new SentenceChunksCreater();
         System.out.print("SENTENCE count " + sentenceChunksCreater.getCount());
 
+    }
+
+    @Test
+    public void testNormalizeInputFromFile() {
+
+        SentenceChunksCreater sentenceChunksCreater = new SentenceChunksCreater();
+        List<String> sentenceList = sentenceChunksCreater.getChunksAsHashMap();
+
+        String appendStr = "";
+        for (String sent : sentenceList) {
+            appendStr += sent.trim() + " ";
+        }
+        appendStr = appendStr.trim();
+        //replace " ' ” '  " all the quotes with space
+
+        sentenceChunksCreater.fileContentWrite(appendStr);
     }
 }

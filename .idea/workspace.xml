@@ -1,18 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="741088c7-b949-4756-a745-fdca4ea0e5e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_aliasi_lingpipe_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SentenceChunksCreater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SentenceModelEvaluator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TextContentDumper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestSentenceChunksCreater.java" afterDir="false" />
+    <list default="true" id="a836b334-44f2-4948-a5f9-bcebb6163133" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_aliasi_lingpipe_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__de_julielab_aliasi_lingpipe_4_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_io_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/nlp-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/nlp-java_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/nlp-java_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/BreakIntoSentences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/SentenceChunksCreater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/SentenceModelEvaluator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/TextContentDumper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/TestBreakIntoSentences.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/TestBreakIntoSentences.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/TestSentenceChunksCreater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/TestSentenceChunksCreater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DictionaryChunker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DictionaryChunker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestBreakIntoSentences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestBreakIntoSentences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestSentenceChunksCreater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestSentenceChunksCreater.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,111 +43,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/nlp_java$TestSentenceChunksCreater_testInputFromFile.ic" NAME="TestSentenceChunksCreater.testInputFromFile Coverage Results" MODIFIED="1539811025579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
-  </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <task path="$PROJECT_DIR$">
-          <activation />
-        </task>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="nlp-java" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="nlp-java" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="nlp-java" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="TestSentenceChunksCreater.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestSentenceChunksCreater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-start-column="20" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SentenceChunksCreater.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SentenceChunksCreater.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NormalizeContent.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/output/NormalizeContent.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="164" selection-start-line="5" selection-start-column="164" selection-end-line="5" selection-end-column="164" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/input/content.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1635">
-              <caret line="109" column="42" selection-start-line="109" selection-start-column="42" selection-end-line="109" selection-end-column="42" />
+            <state relative-caret-position="36">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>SentenceModel</find>
-      <find>compile group: 'com.aliasi', name: 'lingpipe', version: '4.0.1'</find>
-      <find>singer Shweta Pandit</find>
-      <find>”</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -302,10 +237,42 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$/../../Gworkspace/BuildCricketerDB" value="2873743191000" />
+        <entry key="$PROJECT_DIR$/../../Gworkspace/buildplayerdb" value="2873743191000" />
+        <entry key="$PROJECT_DIR$/../CricNode" value="2853090229000" />
+        <entry key="$PROJECT_DIR$/../CricSmart" value="2853679487000" />
+        <entry key="$PROJECT_DIR$/../CricketAPI" value="2853596963000" />
+        <entry key="$PROJECT_DIR$/../TestRestAPI" value="1418339194000" />
+        <entry key="$PROJECT_DIR$/../buildplayerdb" value="2866748097000" />
+        <entry key="$PROJECT_DIR$/../helloNLP" value="2878948877000" />
         <entry key="$PROJECT_DIR$" value="4617380169000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="1535294700" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="4179503194" />
+        <entry key="$USER_HOME$/workspace/HelloScala" value="2837402851000" />
+        <entry key="$USER_HOME$/workspace/HelloUIAutomator" value="2859269481000" />
+        <entry key="$USER_HOME$/workspace/RestAPITesting" value="1422403017000" />
+        <entry key="$USER_HOME$/workspace/TestGradle" value="1418104297000" />
+        <entry key="$USER_HOME$/workspace/TestRestAPI" value="1418177581000" />
+        <entry key="$USER_HOME$/workspace/UIautomator" value="2859269481000" />
+        <entry key="$USER_HOME$/workspace/avery-automation" value="2869135266000" />
+        <entry key="$USER_HOME$/workspace/client-apps-automation" value="1424206991000" />
+        <entry key="$USER_HOME$/workspace/com.manish.gradle.java" value="1417852409000" />
+        <entry key="$USER_HOME$/workspace/com.qa.selenium" value="2840701337000" />
+        <entry key="$USER_HOME$/workspace/dish-it-automation" value="1433535379000" />
+        <entry key="$USER_HOME$/workspace/gatling-charts" value="2836967981000" />
+        <entry key="$USER_HOME$/workspace/gatling-similations" value="2840617527000" />
+        <entry key="$USER_HOME$/workspace/gradle_Test" value="1406344734000" />
+        <entry key="$USER_HOME$/workspace/happyCoding" value="2877130357000" />
+        <entry key="$USER_HOME$/workspace/lyve-apps-automation" value="1424206991000" />
+        <entry key="$USER_HOME$/workspace/lyvesuite-automation" value="2856541173000" />
+        <entry key="$USER_HOME$/workspace/mesh-service-automation" value="1438330615000" />
+        <entry key="$USER_HOME$/workspace/portal-automation" value="2849746641000" />
+        <entry key="$USER_HOME$/workspace/sark" value="8515180584000" />
+        <entry key="$USER_HOME$/workspace/sauce-project" value="2846497853000" />
+        <entry key="$USER_HOME$/workspace/service-automation-utils" value="1425341767000" />
+        <entry key="$USER_HOME$/workspace/testing" value="8523588846000" />
+        <entry key="$USER_HOME$/workspace/testing-gatling" value="2841201591000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -465,50 +432,26 @@
     </option>
     <option name="projectSyncType">
       <map>
+        <entry key="$PROJECT_DIR$/../core-nlp-gradle" value="PREVIEW" />
         <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$USER_HOME$/workspace/Java101" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/sandbox/MyAppium" value="PREVIEW" />
       </map>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/test/java/TestBaseClass.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestLaunchApp.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestCoreNLP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CoreNLP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/StanfordCoreNLP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SentenceBoundaryDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SentenceBoundary.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestSentenceBoundary.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestBreakIntoSentences.java" />
-        <option value="$PROJECT_DIR$/src/main/java/BreakIntoSentences.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SentenceChunker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SentenceChunkerDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SentenceModelEvaluator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SentenceChunks.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestSentenceChunks.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TextContentDumper.java" />
-        <option value="$PROJECT_DIR$/out/NormalizedContent.txt" />
-        <option value="$PROJECT_DIR$/input/content.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/SentenceSplitterPR.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestSentenceChunksCreater.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SentenceChunksCreater.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="431" />
-    <option name="y" value="403" />
-    <option name="width" value="1877" />
-    <option name="height" value="1177" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="44" />
+    <option name="y" value="23" />
+    <option name="width" value="1875" />
+    <option name="height" value="1144" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -531,6 +474,13 @@
               <item name="nlp-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="nlp-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nlp-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nlp-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -540,62 +490,27 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="nlp-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="nlp-java" type="cbb8eebc:String" user="nlp-java" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="nlp-java" type="cbb8eebc:String" user="nlp-java" />
-              <item name="nlp-java_test" type="cbb8eebc:String" user="nlp-java_test" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="nlp-java" type="cbb8eebc:String" user="nlp-java" />
-              <item name="nlp-java_test" type="cbb8eebc:String" user="nlp-java_test" />
-              <item name="src/test" type="cbb8eebc:String" user="src/test" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="nlp-java" type="cbb8eebc:String" user="nlp-java" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="nlp-java" type="cbb8eebc:String" user="nlp-java" />
-              <item name="nlp-java" type="cbb8eebc:String" user="nlp-java" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.40176818" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/out" />
-    </key>
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.19944212" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -609,105 +524,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestSentenceChunksCreater.testInputFromFile">
+  <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="nlp-java [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="assemble" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-    </configuration>
-    <configuration name="TestBreakIntoSentences.testInputFromFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="nlp-java_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestBreakIntoSentences" />
-      <option name="METHOD_NAME" value="testInputFromFile" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestSentenceChunksCreater.testInputFromFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSentenceChunksCreater.testSingleSentenceFromFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="nlp-java_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestSentenceChunksCreater" />
-      <option name="METHOD_NAME" value="testInputFromFile" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestSentenceChunksCreater.testNormalizeInputFromFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="nlp-java_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestSentenceChunksCreater" />
-      <option name="METHOD_NAME" value="testNormalizeInputFromFile" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestSentenceChunksCreater.testSentenceCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="nlp-java_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestSentenceChunksCreater" />
-      <option name="METHOD_NAME" value="testSentenceCount" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestSentenceChunks.testInputFromFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="nlp-java_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestSentenceChunks" />
-      <option name="METHOD_NAME" value="testInputFromFile" />
+      <option name="METHOD_NAME" value="testSingleSentenceFromFile" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -745,7 +575,7 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -756,20 +586,9 @@
       <properties />
       <listeners />
     </configuration>
-    <list>
-      <item itemvalue="JUnit.TestBreakIntoSentences.testInputFromFile" />
-      <item itemvalue="JUnit.TestSentenceChunksCreater.testInputFromFile" />
-      <item itemvalue="JUnit.TestSentenceChunksCreater.testSentenceCount" />
-      <item itemvalue="JUnit.TestSentenceChunksCreater.testNormalizeInputFromFile" />
-      <item itemvalue="Gradle.nlp-java [assemble]" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestSentenceChunksCreater.testInputFromFile" />
-        <item itemvalue="JUnit.TestSentenceChunksCreater.testNormalizeInputFromFile" />
-        <item itemvalue="JUnit.TestSentenceChunksCreater.testSentenceCount" />
-        <item itemvalue="Gradle.nlp-java [assemble]" />
-        <item itemvalue="JUnit.TestBreakIntoSentences.testInputFromFile" />
+        <item itemvalue="JUnit.TestSentenceChunksCreater.testSingleSentenceFromFile" />
       </list>
     </recent_temporary>
   </component>
@@ -778,433 +597,76 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="741088c7-b949-4756-a745-fdca4ea0e5e8" name="Default" comment="" />
-      <created>1509048795882</created>
+      <changelist id="a836b334-44f2-4948-a5f9-bcebb6163133" name="Default" comment="" />
+      <created>1541137304018</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1509048795882</updated>
+      <updated>1541137304018</updated>
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="TestSentenceChunksCreater_testNormalizeInputFromFile - 2018.10.18 at 10h 25m 24s.xml">
-      <configuration name="TestSentenceChunksCreater.testNormalizeInputFromFile" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSentenceChunksCreater_testInputFromFile - 2018.10.18 at 10h 26m 53s.xml">
-      <configuration name="TestSentenceChunksCreater.testInputFromFile" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSentenceChunksCreater_testInputFromFile - 2018.10.18 at 10h 27m 16s.xml">
-      <configuration name="TestSentenceChunksCreater.testInputFromFile" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSentenceChunksCreater_testInputFromFile - 2018.10.18 at 10h 27m 55s.xml">
-      <configuration name="TestSentenceChunksCreater.testInputFromFile" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSentenceChunksCreater_testNormalizeInputFromFile - 2018.10.18 at 10h 28m 02s.xml">
-      <configuration name="TestSentenceChunksCreater.testNormalizeInputFromFile" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSentenceChunksCreater_testInputFromFile - 2018.10.18 at 10h 28m 24s.xml">
-      <configuration name="TestSentenceChunksCreater.testInputFromFile" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSentenceChunksCreater_testInputFromFile - 2018.10.18 at 10h 33m 13s.xml">
-      <configuration name="TestSentenceChunksCreater.testInputFromFile" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSentenceChunksCreater_testSentenceCount - 2018.10.18 at 10h 56m 13s.xml">
-      <configuration name="TestSentenceChunksCreater.testSentenceCount" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSentenceChunksCreater_testNormalizeInputFromFile - 2018.10.18 at 10h 56m 20s.xml">
-      <configuration name="TestSentenceChunksCreater.testNormalizeInputFromFile" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSentenceChunksCreater_testInputFromFile - 2018.10.18 at 10h 56m 27s.xml">
-      <configuration name="TestSentenceChunksCreater.testInputFromFile" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="ToolWindowManager">
-    <frame x="431" y="403" width="1877" height="1177" extended-state="0" />
-    <editor active="true" />
+    <frame x="44" y="23" width="1875" height="1144" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info id="Image Layers" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50027305" side_tool="true" weight="0.33680227" />
-      <window_info anchor="right" id="Maven Projects" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49972692" weight="0.371807" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.31347656" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32777035" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988662" visible="true" weight="0.24358274" />
-      <window_info anchor="right" id="Gradle" order="7" weight="0.15456034" />
-      <window_info anchor="right" id="Structure" order="9" sideWeight="0.5011338" side_tool="true" weight="0.16070446" />
-      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.31201765" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32986537" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2542373" />
+      <window_info anchor="right" id="Gradle" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="8" weight="0.29044464" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3296582" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.36613056" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3017578" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="39" />
-    </breakpoint-manager>
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>appendStr</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>slice</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>sentMap</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>sentence</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>word</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestSentenceChunksCreater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="450">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestBreakIntoSentences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BreakIntoSentences.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="36" column="51" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestBreakIntoSentences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BreakIntoSentences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="51" lean-forward="true" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestBreakIntoSentences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BreakIntoSentences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestBreakIntoSentences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="34" column="33" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="34" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input/content.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StanfordCoreNLP.java" />
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestBreakIntoSentences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestBaseClass.java" />
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestBreakIntoSentences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestBaseClass.java" />
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestBreakIntoSentences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestBaseClass.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.stanford.nlp/stanford-corenlp/3.9.1/b2b776b20d6ff98c052e4d354c473d27c8d754db/stanford-corenlp-3.9.1-sources.jar!/edu/stanford/nlp/pipeline/StanfordCoreNLP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="179" column="9" selection-start-line="179" selection-start-column="9" selection-end-line="179" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StanfordCoreNLP.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.julielab/aliasi-lingpipe/4.1.0/de6cdead30c90090de52d55431d7bc58d357d21f/aliasi-lingpipe-4.1.0-sources.jar!/com/aliasi/tokenizer/TokenizerFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.julielab/aliasi-lingpipe/4.1.0/de6cdead30c90090de52d55431d7bc58d357d21f/aliasi-lingpipe-4.1.0-sources.jar!/com/aliasi/sentences/SentenceModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="60" column="26" lean-forward="true" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.julielab/aliasi-lingpipe/4.1.0/de6cdead30c90090de52d55431d7bc58d357d21f/aliasi-lingpipe-4.1.0-sources.jar!/com/aliasi/tokenizer/Tokenizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="163" column="16" selection-start-line="163" selection-start-column="16" selection-end-line="163" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.julielab/aliasi-lingpipe/4.1.0/de6cdead30c90090de52d55431d7bc58d357d21f/aliasi-lingpipe-4.1.0-sources.jar!/com/aliasi/sentences/MedlineSentenceModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1014">
-          <caret line="123" column="11" selection-start-line="123" selection-start-column="11" selection-end-line="123" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BreakIntoSentences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.julielab/aliasi-lingpipe/4.1.0/de6cdead30c90090de52d55431d7bc58d357d21f/aliasi-lingpipe-4.1.0-sources.jar!/com/aliasi/corpus/Parser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.julielab/aliasi-lingpipe/4.1.0/de6cdead30c90090de52d55431d7bc58d357d21f/aliasi-lingpipe-4.1.0-sources.jar!/com/aliasi/corpus/StringParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.julielab/aliasi-lingpipe/4.1.0/de6cdead30c90090de52d55431d7bc58d357d21f/aliasi-lingpipe-4.1.0-sources.jar!/com/aliasi/sentences/SentenceChunker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.julielab/aliasi-lingpipe/4.1.0/de6cdead30c90090de52d55431d7bc58d357d21f/aliasi-lingpipe-4.1.0-sources.jar!/com/aliasi/chunk/Chunking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TextContentDumper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SentenceModelEvaluator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-io/1.3.2/b41a5f39fa90007a6c247175933555ba5f166d70/commons-io-1.3.2-sources.jar!/org/apache/commons/io/FileUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="1124" selection-start-line="1124" selection-end-line="1124" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/NormalizedContent.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BreakIntoSentences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestBreakIntoSentences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="45" column="31" lean-forward="true" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SentenceSplitterPR.java" />
-    <entry file="file://$PROJECT_DIR$/EvaluatorFalsePositives.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input/content.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1635">
-          <caret line="109" column="42" selection-start-line="109" selection-start-column="42" selection-end-line="109" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.aliasi/lingpipe/4.0.1/c68261044a8dfd6b71e49d2ec64818dd65baeaad/lingpipe-4.0.1.jar!/com/aliasi/corpus/Parser.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="53" column="27" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/NormalizeContent.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="164" selection-start-line="5" selection-start-column="164" selection-end-line="5" selection-end-column="164" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EvaluatorFalseNegatives.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SentenceChunksCreater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/lingpipe-4.1.0.jar!/com/aliasi/tag/Tagger.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/lingpipe-4.1.0.jar!/com/aliasi/corpus/Handler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="680">
+          <caret line="44" column="49" selection-start-line="44" selection-start-column="49" selection-end-line="44" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestSentenceChunksCreater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        <state relative-caret-position="36">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1214,11 +676,10 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>nlp-java:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.40176818" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -1230,7 +691,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.40176818" />
+                <option value="0.19944212" />
               </list>
             </option>
           </splitter-proportions>
@@ -1241,7 +702,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.40176818" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -1253,7 +714,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.40176818" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -1265,7 +726,19 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.40176818" />
+                <option value="0.19944212" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19944212" />
               </list>
             </option>
           </splitter-proportions>
@@ -1277,7 +750,18 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.40176818" />
+                <option value="0.19944212" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3049482" />
               </list>
             </option>
           </splitter-proportions>
